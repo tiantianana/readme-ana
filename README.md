@@ -11,7 +11,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-9c38d1?style=flat&logo=LinkedIn&logoColor=white)](linkedin.com/in/ana-tian-villanueva-conde-598338216)
 
 ## 🔥 My Github Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark&hide_border=true" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark&hide_border=true" />
+</p>
 
 ## 🏆 Github Profile Trophy
 <p align="center">

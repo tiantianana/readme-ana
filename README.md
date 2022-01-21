@@ -14,16 +14,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark&hide_border=true" />
 
 ## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub&margin-w=15&row=1&no-frame=true" />
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub&margin-w=15&row=1&no-frame=true" />
+</p>
 
 ## 📊 My Github Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tiantianana&count_private=true&hide_border=true&card_width=400&show_icons=true&theme=tokyonight&hide=["contribs","prs"]" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tiantianana&count_private=true&hide_border=true&card_width=300&show_icons=true&theme=tokyonight&hide=["contribs","prs"]"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiantianana&layout=compact&hide_border=true&card_width=400&langs_count=10&theme=tokyonight"/>
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tiantianana&theme=react-dark&hide_border=true" />
-
-
 

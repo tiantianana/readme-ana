@@ -12,10 +12,12 @@
 
 ## 📊 My Github Stats
 
-[![Ana's github activity graph](https://activity-graph.herokuapp.com/graph?username=tiantianana&theme=github)](https://github.com/tiantianana/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark)](https://git.io/streak-stats)
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiantianana&count_private=true&show_icons=true&theme=tokyonight&hide=["contribs","prs"])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiantianana&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/tiantianana/github-readme-stats) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub)](https://github.com/tiantianana/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub&margin-w=15&row=1)](https://github.com/tiantianana/github-profile-trophy)
+
+[![Ana's github activity graph](https://activity-graph.herokuapp.com/graph?username=tiantianana&theme=github)](https://github.com/tiantianana/github-readme-activity-graph)

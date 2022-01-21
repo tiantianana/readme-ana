@@ -10,14 +10,20 @@
 [![Mail Badge](https://img.shields.io/badge/Mail2-9c38d1?style=flat&logo=Gmail&logoColor=white)](mailto:100405817@alumnos.uc3m.es)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-9c38d1?style=flat&logo=LinkedIn&logoColor=white)](linkedin.com/in/ana-tian-villanueva-conde-598338216)
 
+## 🔥 My Github Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark&hide_border=true" />
+
+## 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub&margin-w=15&row=1&no-frame=true" />
+
 ## 📊 My Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiantianana&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tiantianana&count_private=true&hide_border=true&card_width=400&show_icons=true&theme=tokyonight&hide=["contribs","prs"]" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiantianana&layout=compact&hide_border=true&card_width=400&langs_count=10&theme=tokyonight"/>
+</p>
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiantianana&count_private=true&show_icons=true&theme=tokyonight&hide=["contribs","prs"])
+<img src="https://activity-graph.herokuapp.com/graph?username=tiantianana&theme=react-dark&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiantianana&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/tiantianana/github-readme-stats) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiantianana&theme=darkhub&margin-w=15&row=1)](https://github.com/tiantianana/github-profile-trophy)
 
-[![Ana's github activity graph](https://activity-graph.herokuapp.com/graph?username=tiantianana&theme=github)](https://github.com/tiantianana/github-readme-activity-graph)
